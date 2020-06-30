@@ -1,11 +1,15 @@
+.navbar{
+    margin-bottom: 0px;
+}
+body
+{
+    
 
-    #myVideo {
-        position: fixed;
-        right: 0;
-        bottom: 0;
-        min-width: 100%;
-        min-height: 100%;
-      }
+}
+.mainHeading{
+    background-image: url(https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80);
+    background-size: cover;
+    padding-bottom: 10rem;
 }
 html{
     height: 100%;
@@ -13,7 +17,7 @@ html{
 #content
 {
     text-align: center;
-    padding-top: 25%;
+    padding-top: 10%;
     color:white; 
     text-shadow: lightblue;
 }
@@ -22,4 +26,9 @@ hr{
 }
 .navbar-inverse{
 	color: grey;
+}
+h2
+{
+    text-align: center;
+    color: honeydew;
 }
