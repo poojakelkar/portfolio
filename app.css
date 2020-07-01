@@ -17,7 +17,7 @@ html{
 #content
 {
     text-align: center;
-    padding-top: 10%;
+    padding-top: 15%;
     color:white; 
     text-shadow: lightblue;
 }
@@ -35,5 +35,5 @@ h2
 .slideup
 {
     text-align: center;
-    font-size: 14;
+    font-size: 20;
 }
