@@ -42,7 +42,12 @@ h2
 h3{
     text-align: center;
     color: white;
+
 }
 h2{
     text-align: center;
+}
+h1
+{
+    font-size: 40px;
 }
