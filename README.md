@@ -6,3 +6,4 @@ added skills in portfolio
 added projects in portfolio.
 HTML
 CSS
+JavaScript
