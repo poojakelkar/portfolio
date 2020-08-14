@@ -7,3 +7,4 @@ added projects in portfolio.
 HTML
 CSS
 JavaScript
+Bootstrap
