@@ -4,7 +4,4 @@ Pooja kelkar
     background-size: cover;-->
 added my skills in portfolio
 added projects in portfolio.
-HTML
-CSS
-JavaScript
-Bootstrap
+
